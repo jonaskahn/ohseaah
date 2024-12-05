@@ -1,12 +1,17 @@
 [tool.poetry]
 name = "ohseaah"
 version = "0.1.0"
-description = ""
+description = "OhSeaAh ✨ A ready service to recognize PDFs, DOCXs, images with modern OCR models and AI-Vision models 🤖"
 authors = ["JonasKahn <tuyendev@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+sanic = "^24.6.0"
+sanic-cors = "^2.2.0"
+surya-ocr = "^0.7.0"
+easyocr = "^1.7.2"
+pytesseract = "^0.3.13"
 
 
 [build-system]
