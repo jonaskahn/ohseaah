@@ -1,2 +1,6 @@
-# ohseaah
-OCR (OhSeaAh) - A modern OCR/AI-powered service for quick and convenient text recognition from PDFs, DOCX, and images! 🖼️📄✨
+<p align="center">
+  <img src="docs/images/logo.webp" alt="OhSeaAh's Logo"/>
+</p>
+<p align="center">
+  <strong>OhSeaAh ✨ A ready service to recognize PDFs, DOCXs, images with modern OCR models and AI-Vision models 🤖</strong>
+</p>
